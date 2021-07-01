@@ -1,0 +1,12 @@
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\bin\Debug\ExamenPrestamos.exe.config
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\bin\Debug\ExamenPrestamos.exe
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\bin\Debug\ExamenPrestamos.pdb
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.csprojAssemblyReference.cache
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.AddPrestamos.resources
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.Form1.resources
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.FrmPrestamos.resources
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.Properties.Resources.resources
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.csproj.GenerateResource.cache
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.exe
+C:\Users\Sistemas-12\source\repos\ExamenPrestamos\ExamenPrestamos\obj\Debug\ExamenPrestamos.pdb
